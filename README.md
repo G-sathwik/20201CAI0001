@@ -7,5 +7,5 @@ Food Security is paramount importance to the growing food needs of an ever incre
 4. pests and disease Predictions and use of insecticides
 5. Demand for crop
 6. Availability of fertilizers and insecticides
-7. Irrigated and nonirrigated
+7. Irrigated and non irrigated
 Based on available data from multiple sources and market condition, a solution in the form of interactive application is expected from the cream of the society to guide farmers in deciding when and which crop to grow in their fields based on geographical location of their field and market demand / trends using artificial intelligence (AI)
